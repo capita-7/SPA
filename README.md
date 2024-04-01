@@ -2,7 +2,7 @@
 
 ##### (Leave a ⭐️ on Repo if it helps !)
 
-Will be available at https://< ns >.github.io/spa/ , Help Us Improve the UI to a Clean,Responsive and Stunning View 🌁.
+Will be available at https://< ns >.github.io/saft/ , Help Us Improve the UI to a Clean,Responsive and Stunning View 🌁.
 
 ## :grin: You will glad to know: 
 
