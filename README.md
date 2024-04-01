@@ -1,4 +1,4 @@
-# ⌖ SPA (Security and Privacy Analysis Toolkit) - Little push to your Productivity. 📈
+# ⌖ safe-t( pronounced as "safety" , A Vulnerability and Privacy Analysis Toolkit)
 
 ##### (Leave a ⭐️ on Repo if it helps !)
 
